@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerepdate",
+        "uuid": 38631429,
+        "checksum": "zc7jjp"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
